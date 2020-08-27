@@ -1,7 +1,7 @@
 # Bikesharing
 
 ## Project Overview
-The project consisted of creating a proposal for an angel investor in a fictitious bike-share business located in the city of Des Moines, Iowa, similar to the citiBike program in New York City. The analysis includes details on how the business would work based on how it works in New York City.
+The project consisted of creating a proposal for an angel investor in a fictitious bike-share business located in the city of Des Moines, Iowa, similar to the CitiBike program in New York City. The analysis includes details on how the business would work based on how it works in New York City.
 
 ## Resources
 - Data source:
